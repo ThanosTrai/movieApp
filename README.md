@@ -1,5 +1,6 @@
 # movieApp
-A web app powered by Apache Tomcat 9.0 / AJAX
+A web based app powered by Apache Tomcat 9.0 / AJAX
+
 
 Hello there! Thank you for choosing movieApp for your movie exploration journey. To get
 started, you'll need to replace the placeholder API key in the code with your own real API key.
